@@ -11,12 +11,13 @@ img {
 
 
 em {
+
   display: block;
   text-align: center;
   font-style: italic;
   font-size: 14px;
   color: #666;
-  margin-top: 5px;
+  margin-top: 5px
 }
 
 h1 {
@@ -28,7 +29,7 @@ h2 {
 }
 
 article[size="A4"] {
-  display: block;
+display: block;
   width: 21cm;
   background: white;
   padding: 1cm;
