@@ -9,7 +9,7 @@ order : 1
 
 # Carte d’empathie
 ## Introduction
-![Introduction image](./images/Introduction.png)
+![Introduction image](./images/Introduction.jpg)
 *figure: 1 Introduction*
 ## Service Social - Khawla souan
 ![service social Carte d'empathie](./images/service-social.png)
